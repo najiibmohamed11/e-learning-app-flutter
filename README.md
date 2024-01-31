@@ -1,16 +1,6 @@
 # e_learning_dribble_design
 
-A new Flutter project.
+i cloned a dribble design into flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this is the image of the dribble code
+![image](https://github.com/najiibmohamed11/e-learning-app-flutter/assets/114617596/9b8271b9-c5e2-4180-9715-66f398978b50)
